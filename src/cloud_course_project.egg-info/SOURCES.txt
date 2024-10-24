@@ -1,0 +1,6 @@
+pyproject.toml
+cloud_course_project.egg-info/PKG-INFO
+cloud_course_project.egg-info/SOURCES.txt
+cloud_course_project.egg-info/dependency_links.txt
+cloud_course_project.egg-info/requires.txt
+cloud_course_project.egg-info/top_level.txt
